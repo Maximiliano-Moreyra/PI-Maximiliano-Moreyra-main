@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 26px;
+  font-size: 3vw;
+
+  background-size: 300% 100%;
+  background-attachment: fixed;
+  viewport-fit: auto;
+  background-image: url('./img/fondo.gif');
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 100vh;
+  padding:0;
+  margin:0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
